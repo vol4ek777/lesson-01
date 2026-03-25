@@ -21,3 +21,5 @@ if (score >= 90 && score <= 100) {
   grade = 'small score'
 }
 
+console.log('Баллы: ' + score)
+console.log('Оценка: ' + grade)
